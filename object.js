@@ -13,7 +13,7 @@ var student1 = {
      screenSize:5,
      storage: '16GB'
  };
- 
+
 //object-3
  var book={
      title='Start with why', //egula object property each 
@@ -21,4 +21,4 @@ var student1 = {
      price: 200,
      pages: 246,
      publisher: 'penguin'
- }
+ };
